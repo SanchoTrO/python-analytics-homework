@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d84360a9-a583-42ec-9d34-99919f6d739b" name="Changes" comment="add analysis file" />
+    <list default="true" id="d84360a9-a583-42ec-9d34-99919f6d739b" name="Changes" comment="add average sales comment">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/update-sales-rejected" />
+        <entry key="$PROJECT_DIR$" value="feature/add-average-comment" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -89,6 +91,9 @@
       <workItem from="1771232627953" duration="3752000" />
       <workItem from="1771349064946" duration="806000" />
       <workItem from="1771575075740" duration="2053000" />
+      <workItem from="1771577368002" duration="3595000" />
+      <workItem from="1771598398120" duration="292000" />
+      <workItem from="1771610115459" duration="1726000" />
     </task>
     <task id="LOCAL-00001" summary="add analysis file">
       <option name="closed" value="true" />
@@ -130,17 +135,64 @@
       <option name="project" value="LOCAL" />
       <updated>1771235284058</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add analysis file">
+      <option name="closed" value="true" />
+      <created>1771577391885</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1771577391885</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update Lviv sales to 1000">
+      <option name="closed" value="true" />
+      <created>1771577941631</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1771577941631</updated>
+    </task>
+    <task id="LOCAL-00008" summary="temporary title change12132">
+      <option name="closed" value="true" />
+      <created>1771579136393</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1771579136394</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add average sales comment">
+      <option name="closed" value="true" />
+      <created>1771580480169</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1771580480169</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update Lviv sales to 950" />
     <MESSAGE value="temporary title change" />
     <MESSAGE value="Merge pull request #1 from SanchoTrO/feature/update-sales-accepted&#10;&#10;Feature/update sales accepted" />
     <MESSAGE value="add analysis file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add analysis file" />
+    <MESSAGE value="update Lviv sales to 1000" />
+    <MESSAGE value="temporary title change12132" />
+    <MESSAGE value="Merge pull request #6 from SanchoTrO/revert-5-feature/add-average-comment&#10;&#10;Revert &quot;Add comment about average sales&quot;" />
+    <MESSAGE value="add average sales comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="add average sales comment" />
   </component>
 </project>
